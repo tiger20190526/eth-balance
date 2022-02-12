@@ -139,10 +139,3 @@ yarn
 * `test:contract` - Runs `truffle test`
 * `test:lib` - No tests implemented yet
 * `test` - Runs `tst:contract` and `test:lib`
-
-## Credits
-
-* Thanks to [@henrynguyen5](https://github.com/henrynguyen5) for adapting 
-[@DeltaBalances](https://github.com/DeltaBalances)' smart contract for this
-* This library came out of EthSanFrancisco from the
-[Safu Chrome Extension](https://github.com/grant-project/safu-extension) project.
